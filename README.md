@@ -19,7 +19,7 @@ In this challenge, we will help Jeremy and the data analytics team do the follow
 
 - By looking at the p-value, which is less than 0.05, we can tell that our slope is not zero.
 
--As measured by the R-square of 0.71, 71% of mpg variations can be attributed to variations in the vehicle length, vehicle weight, the spoiler angle, the drivetrain,   and the ground clearance. This linear model can predict the mpg of MechaCar prototypes well.
+- As measured by the R-square of 0.71, 71% of mpg variations can be attributed to variations in the vehicle length, vehicle weight, the spoiler angle, the drivetrain,   and the ground clearance. This linear model can predict the mpg of MechaCar prototypes well.
 
 # Summary Statistics on Suspension Coils
 
@@ -37,4 +37,4 @@ In this challenge, we will help Jeremy and the data analytics team do the follow
 - MechaCar's performance metrics are statistically like all vehicles from other manufacturers, so here, it would be the null hypothesis that each metric is the same.
 -	A continuous numerical variable is compared across several groups using this test. We would thus compare the means of each metric across manufacturers in this analysis.
 
--To conduct the test, we would require MechaCar and its competitors' data in one dataframe, with each metric grouped into one column.
+- To conduct the test, we would require MechaCar and its competitors' data in one dataframe, with each metric grouped into one column.
