@@ -3,6 +3,7 @@
 # Overview
 
 Jeremy just started his new role he is approached by upper management about a special project. AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress.  AutosRU’s upper management has called on Jeremy and the data analytics team to review the production data for insights that may help the manufacturing team.
+
 In this challenge, we will help Jeremy and the data analytics team do the following:
 
 -	Perform multiple linear regression analysis to identify wich variables in the dataset predict the mpg of MechaCar prototypes.
